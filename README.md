@@ -1,2 +1,2 @@
 # Mxnet-Classification
-Handwritten Digits Classification Competition¶
+Handwritten Digits Classification
